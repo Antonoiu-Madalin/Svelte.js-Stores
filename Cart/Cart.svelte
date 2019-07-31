@@ -1,6 +1,6 @@
 <script>
   import cartItems from './cart-store';
-  import CartItem from "./CartItem.svelte";
+  import CartItem from './CartItem.svelte';
 </script>
 
 <style>
